@@ -1,0 +1,52 @@
+.container {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.header-image {
+    display: block;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-bar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 5px;
+}
+
+.buttons-div{
+    display: block;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-custom {
+    width: 100px;
+    padding: 5px;
+}
