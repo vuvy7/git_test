@@ -100,7 +100,7 @@
     margin: 0px;
 }
 
-.coolblue-header-nav {
+.coolblue-flex-dir-row {
     display: flex;
     flex-direction: row;
 
@@ -108,4 +108,32 @@
 
 .coolblue-header-image {
     margin-right: 10px;
+}
+
+.coolblue-align-right {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+
+} 
+
+.coolblue-margin-right-5{
+    margin-right: 5px;
+}
+
+.coolblue-margin-right-10{
+    margin-right: 10px;
+}
+
+.coolblue-flex-dir-row-reverse {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.coolblue-bg-color-light-grey {
+    background-color: lightgray;
+}
+
+.coolblue-padding-vert-10 {
+    padding: 10px;
 }
