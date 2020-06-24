@@ -137,3 +137,10 @@
 .coolblue-padding-vert-10 {
     padding: 10px;
 }
+
+.coolblue-flex-dir-col {
+    flex-direction:column ;
+    display: flex;
+
+
+}
